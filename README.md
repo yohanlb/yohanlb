@@ -17,8 +17,10 @@ Tech & Languages I have experience with : **Unreal Engine, AR, VR, Leap Motion, 
 
 My Portfolio : [yohanlebreton.fr](https://yohanlebreton.fr)  
 My Linkedin : [linkedin.com/in/yohanlb](https://www.linkedin.com/in/yohanlb/)  
-My Resume : [Download](https://yohanlebreton.fr/cv/CV_FR.pdf)  
 
+<!--
+My Resume : [Download](https://yohanlebreton.fr/cv/CV_FR.pdf)  
+-->
 
 <!--
 **yohanlb/yohanlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

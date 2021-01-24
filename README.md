@@ -4,7 +4,10 @@
 💻 I'm a SOFTWARE ENGINEER / CREATIVE TECHNOLOGIST  
 💪 Creating beautiful and fun **interactive experiences** for brands and events !  
 
+My Portfolio : [yohanlebreton.fr](https://yohanlebreton.fr)  
+More info [here](https://www.notion.so/Yohan-Le-Breton-a8df3fc50b994062b24f32bb4b43ea2c)  
 
+<!--
 💬 I Speak English, French, Javascript, React, C#, and a bit of Java and Spanish too !  
 
 📌 Currently living in **Paris**  

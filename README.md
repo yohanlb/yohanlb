@@ -4,7 +4,7 @@
 💻 I'm a SOFTWARE ENGINEER / CREATIVE TECHNOLOGIST  
 💪 Creating beautiful and fun **interactive experiences** for brands and events !  
 
-My Portfolio : [yohanlebreton.fr](https://yohanlebreton.fr)  
+[yohanlebreton.fr](https://yohanlebreton.fr)  
 
 
 <!--

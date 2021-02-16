@@ -1,11 +1,11 @@
 
 ### Oh, hi there 👋
 
-💻 I'm a SOFTWARE ENGINEER / CREATIVE TECHNOLOGIST  
+💻 I'm a software engineer / Creative Technologist
 💪 Creating beautiful and fun **interactive experiences** for brands and events !  
 
 [yohanlebreton.fr](https://yohanlebreton.fr)  
-
+[linkedin.com/in/yohanlb](https://www.linkedin.com/in/yohanlb/)  
 
 <!--
 More info [here](https://www.notion.so/Yohan-Le-Breton-a8df3fc50b994062b24f32bb4b43ea2c)  
